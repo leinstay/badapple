@@ -1,0 +1,12 @@
+{
+    "chunk_size_x": 6,
+    "chunk_size_y": 10,
+    "sync_multiplier": 1.18,
+    "illumination_level": 2,
+    "illumination_characters": [
+        "💀",
+        "🍎"
+    ],
+    "video_source": "ba.mp4",
+    "audio_source": "ba.mp3"
+}
