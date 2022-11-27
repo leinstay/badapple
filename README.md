@@ -1,14 +1,9 @@
-# Bad apple!!! but it's made of apples in VS Code terminal
+# Bad apple
 
-Audio/video synchronization and frame parsing are handled in code on the fly. Script can be used for any monochrome video. Number of symbols per line, number and type of used symbols and syncronization options are set via config file.
-
-Bad Apple!!:
+A python script that transforms a video file into ASCII graphics frame by frame and outputs it directly to the console.
+Script can be used for any monochrome video. All options are set via config file.
 
 [![Bad apple](https://user-images.githubusercontent.com/8215580/203308975-2af88779-73fa-477d-9b1f-64e264eb1311.png)](https://youtu.be/omi5VWlpfOs)
-
-Lag Train:
-
-https://user-images.githubusercontent.com/8215580/203386661-0c0a973d-e8a5-4887-a568-29145685ba9c.mp4
 
 Config:
 
