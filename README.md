@@ -12,14 +12,12 @@ Config:
     "chunk_size_x": 6, // width of single character in px;
     "chunk_size_y": 10, // height of single character in px;
     "sync_multiplier": 1.18, // must be > 1, raise this parameter if the video is desynchronized by more than one second;
-    "illumination_level": 2, // the number of characters used, where the first is for black, the last for white, 
-                                        and the intermediate for the shades of gray in between;
+    "illumination_level": 2, // the number of characters used;
     "illumination_characters": [
         "💀",
         "🍎"
     ],
-    "video_source": "ba.mp4", // source video file to parse;
-    "audio_source": "ba.mp3" //source audio file to use, if it is missing, 
-                                        this option will be used as the name for the audio track taken from the video;
+    "video_source": "ba.mp4",
+    "audio_source": "ba.mp3" 
 }
 ```
