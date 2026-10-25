@@ -40,7 +40,4 @@ All options live in `config.json`.
 
 ## License and credits
 
-MIT License, see [LICENCE](LICENCE).
-
-* Bad Apple!! shadow art video by Anira (<https://www.nicovideo.jp/watch/sm8628149>), bundled as `ba.mp4` for demonstration. Rights belong to the author.
-* [moviepy](https://github.com/Zulko/moviepy): MIT License
+MIT License, see [LICENCE](LICENCE). Video decoding is done by [moviepy](https://github.com/Zulko/moviepy) (MIT). The bundled `ba.mp4` is the Bad Apple!! shadow art video by Anira (https://www.nicovideo.jp/watch/sm8628149), included for demonstration, and its rights belong to the author.
